@@ -1,0 +1,9 @@
+/* style.css */
+body {
+  background-color: lightblue;
+}
+
+.paragraph-style {
+  color: navy;
+  font-size: 20px;
+}
